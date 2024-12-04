@@ -1,0 +1,1 @@
+g++ -o Tetris.exe  main.cpp grid.cpp -lraylib -lgdi32 -lwinmm
